@@ -1,22 +1,12 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+I found difficulty organizing and communicating with my team at first due to our size of 12 members and since we are split up unevenly in the small group meetings. However, I have made sure everyone is on Slack in our channel, have setup the repository with links to necessary learning materials, and I am trying to organize weekly big meetings outside of Tuesdays.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+I will setup the repo, add everyone as collaborators on the repo, and try to schedule a weekly weekend meeting.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
+Team size is currently the only limiting factor but this is mainly due to my inexperience working with large teams (or teams at all!) and will be fixed in time.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
