@@ -1,24 +1,13 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+This week I made an admin page, shut down the entuire public server and made a waitlist, and I redesigned the AssignmentOverview page. All together I made about 50 commits.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+I will continue to develop the Admin page to implement user actions like toggling the account lock on users, removing users, etc. I will also continue making more Issues to delegate to the team. I will work on the Issue list as I have been doing.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+Nothing at all.
 
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
