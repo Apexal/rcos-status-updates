@@ -1,0 +1,6 @@
+## Last Week's Accomplishments
+
+Instead of slowing down, LATE development is ramping up as the semester ends! With finals approaching, I'm trying to implement useful features that will aid users (hopefully me included!) in their finals prep. The study plan system has been improved in terms of dragging. Assignments can have almost all of their properties edited in place instead of from the edit modal now! I also added a handful of new charts to the statistics page which show pretty interesting data like the # of assignments due every week over the whole semester, or showing how many assignments have been due on each week day throughout the semester. Charts.js is proving super easy to use. I also added a little obscure feature involving SISMan... I also created a FloatingActionButton that allows easy adding of an assignment or exam when on mobile.
+
+## Next Week
+I have a huge set of issues lined up to work on next week. I want to implement StudyTools, an idea that's been in the back of my mind for a while and one that has been brought up by Olivia when testing LATE. I also am planning on everything I'll be doing for LATE over the summer, including overhauling the entire frontend with Buefy, *maybe* trying out Typescript, etc.
